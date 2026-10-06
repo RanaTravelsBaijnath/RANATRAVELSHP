@@ -1,0 +1,7 @@
+# TODO
+
+- [x] **Public Rana Travels website and verified source details:** Create a site regarding a travel agency named Rana Travels Baijnath. Take the required agency information from Instagram `ranatravels_` and Facebook Rana Travels Baijnath. Present only details verified from those public profiles, link to the profiles, and offer clear enquiry/contact actions using confirmed channels.
+- [x] **No invented route listings:** Do not include any routes by yourself. Keep the public local-routes area empty until the administrator adds and publishes route information; do not infer routes, schedules, or fares from incomplete social posts.
+- [x] **Protected admin login and route management:** Create a special admin login area using the administrator email/password supplied in the conversation, store them through protected secrets and not in source files, and allow the authenticated administrator to add, edit, publish/unpublish, and delete different local routes.
+- [x] **Responsive site imagery and route presentation:** Use the user's supplied Rana bus photo as the full-bleed hero background, with responsive framing and readable overlaid text. Display only administrator-published local routes and only the route fields the administrator supplies.
+- [x] **Supplied brand logo:** Use the user's supplied Rana Tour & Travels logo in the public header and footer, the admin area, browser icon, and Manus project branding.
